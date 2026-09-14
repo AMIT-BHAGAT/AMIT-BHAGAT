@@ -1,25 +1,23 @@
-- 👋 Hi, I’m @AMIT-BHAGAT
-- 👀 I’m interested in web and android developments
-- 🌱 I’m currently learning javascripts, css and android.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Amit Bhagat 👋
 
+I’m a Full-Stack Software Engineer with 4+ years of experience building scalable, secure, and cloud-ready applications.
 
-Hey there, Amit Bhagat 👋
-📌 Here are a few things that describe me:
+## 💫 About Me
 
-💫 About Me:
+* 💼 Experienced in **Java, Spring Boot, Microservices, React.js, and REST APIs**
+* ☁️ Hands-on with **AWS Lambda, EC2, S3, CloudFront, API Gateway, EKS, RDS, and DynamoDB**
+* ⚡ Building event-driven and asynchronous systems using **Apache Kafka, Kinesis, and SQS**
+* 🗄️ Experienced with **MySQL, PostgreSQL, DynamoDB, and Elasticsearch**
+* 🐳 Familiar with **Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions**
+* 📊 Working with **Grafana, Loki, OpenTelemetry, and Spring Boot Actuator**
+* 🔐 Interested in **application security, OAuth2, JWT, cybersecurity, and secure coding**
+* 🧠 Currently strengthening my knowledge of **system design, distributed systems, DSA, and performance optimization**
+* 🤝 Open to collaborating on **Java, Spring Boot, React, AWS, microservices, and open-source projects**
+* 💬 Ask me about **backend development, microservices, cloud architecture, CI/CD, or full-stack development**
+* 📫 Reach me through **LinkedIn, GitHub, or email**
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: I enjoy solving complex engineering problems and continuously improving how systems are designed and built.
 
-💼 Software Engineer at TCS with 1.5 years of full-time experience 
-🔖 Currently focused on a project, dedicated to writing clean code
-💻 Professional Full-stack developer, Cloud Engineer, Cybersecurity enthusiast
-🌱 Always learning and growing in my fields of expertise
-💬 Ask me anything, I'm here to help!
-📫 Reach me on Twitter, Linkedin, or via Email 🚀
-😄 Pronouns: he/him
-⚡ Fun fact: I absolutely love what I do! 😄
+## 🛠️ Technology Stack
 
-<!---
-AMIT-BHAGAT/AMIT-BHAGAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+`Java` `Spring Boot` `Microservices` `React.js` `JavaScript` `Apache Kafka` `AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `MySQL` `PostgreSQL` `DynamoDB` `Elasticsearch` `Grafana` `Loki`
